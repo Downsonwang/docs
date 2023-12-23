@@ -2,7 +2,7 @@
  * @Descripttion:  About me 
  * @Author:  DW
  * @Date: 2023-12-23 13:47:12
- * @LastEditTime: 2023-12-23 16:28:38
+ * @LastEditTime: 2023-12-23 16:36:45
 -->
 ```json
 {
@@ -19,6 +19,7 @@ Update MySelf
 
 ### 关于我 
 
+- Downson 
 - 00后 水瓶座的ISTJA, 184.3cm/75kg, 素质基本没有但尊重女士.
 - IT相关人士,在腾讯,滴滴出行,阳光出行进行过实习.
 
