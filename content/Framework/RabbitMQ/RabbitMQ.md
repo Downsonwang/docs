@@ -1,7 +1,8 @@
 ```json
 
-  "date": "2024.03.04 22:10",
-  "tags": ["Framework","RabbitMQ"]
+  "date": "2024.03.04 21:03",
+  "tags":["RabbitMQ"],
+  "title": "RabbitMQ"
 
 ```
 

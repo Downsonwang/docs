@@ -1,8 +1,9 @@
 
 ```json
 
-  "date": "2023.12.24 22:10",
-  "tags": ["Framework","DDD"]
+  "date": "2024.03.04 21:03",
+  "tags":["DDD"],
+  "title": "DDD"
 
 ```
 
