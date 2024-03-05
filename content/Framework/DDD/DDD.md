@@ -1,10 +1,10 @@
 
 ```json
-
+{
   "date": "2024.03.04 21:03",
   "tags":["DDD"],
   "title": "DDD"
-
+}
 ```
 
 ## Domain-driven design(DDD)

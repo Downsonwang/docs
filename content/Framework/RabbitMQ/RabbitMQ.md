@@ -1,9 +1,9 @@
 ```json
-
+{
   "date": "2024.03.04 21:03",
   "tags":["RabbitMQ"],
   "title": "RabbitMQ"
-
+}
 ```
 
 ### RabbitMQ的整体架构及核心概念
