@@ -1,10 +1,11 @@
+
 ```json
     {
-        "date":"2024.03.04 14:36"，
-        "tags": ["摘抄"]，
-        "title": "做一个更好的决定"，
-        "description": "如何做出一个更好的决定"，
-        "author": "downson"，
+        "date":"2024.03.04 14:36",
+        "tags": ["摘抄"],
+        "title": "做一个更好的决定",
+        "description": "如何做出一个更好的决定",
+        "author": "downson"
     }
 ```
 
