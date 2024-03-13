@@ -7,6 +7,8 @@
 
 长期而言,未来是由乐观主义者决定的。成为乐观主义者,不意味着必须忽视,我们制造了多少问题。你只需要想象,我们解决问题的能力能有多大的提升。 - KK
 
+一定要勇于尝试不要站在原地不动。
+You must have the courage to try and not stand still。 - Downson
 
 
 ---
