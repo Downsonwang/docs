@@ -1,6 +1,6 @@
 ```json
 {
- "date": "2024.03.15 21:50",
+ "date": "2024.04.08 21:50",
   "tags":["Prims"],
   "title": "Prims-Greedy"
 }
