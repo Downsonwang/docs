@@ -4,6 +4,7 @@
   "tags":["UNIONFIND"],
   "title": "Prims-UnionFind"
 }
+```
 #### Disjoint Sets
 
 并查集,又称为不交集数据集合,是一种数据结构。
